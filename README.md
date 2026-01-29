@@ -10,10 +10,10 @@ Easy to extend for data-driven testing
 
 Login-Signup-Playwright-Automation/
 
-├── tests/# Test scripts (Login,Signup,Anonymous)
-├── pages/# Page Object Model (signup,Login,Anonymous and Baseclasses)
+├── tests/ **Test scripts (Login,Signup,Anonymous)**
+├── pages/ **Page Object Model (signup,Login,Anonymous and Baseclasses)**
 ├── test-data/            
-├── playwright.config.js# Playwright configuration
+├── playwright.config.js
 ├── package.json          
 ├── package-lock.json
 └── .gitignore
