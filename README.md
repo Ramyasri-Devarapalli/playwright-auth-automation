@@ -19,4 +19,4 @@ Login-Signup-Playwright-Automation/
 - .gitignore
 
 Test data can be added later in test-data for data-driven testing and it
-Follows Page Object Model (POM) to separate page elements/UI actions from test scripts
+follows Page Object Model (POM) to separate page elements/UI actions from test scripts
